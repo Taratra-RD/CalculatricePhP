@@ -1,0 +1,15 @@
+{
+    "name": "taratra/homework",
+    "authors": [
+        {
+            "name": "Taratra Rand",
+            "email": "taratra.access4@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "app\\":"src/"
+        }
+    }
+}
